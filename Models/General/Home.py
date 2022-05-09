@@ -19,7 +19,7 @@ class homeApp(QMainWindow):
 
         # Botones
         self.btnLogin = QPushButton("Login", self)
-        self.btnRegister= QPushButton("Registrar", self)
+        self.btnRegister= QPushButton("Registrarse", self)
         self.btnLogin.setGeometry(280, 80, 250, 40)
         self.btnRegister.setGeometry(280, 200, 250, 40)
         
